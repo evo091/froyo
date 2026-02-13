@@ -1,0 +1,1 @@
+let order = prompt("Please enter your desired froyo flavors - separated by commas");
